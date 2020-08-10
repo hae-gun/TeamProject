@@ -2,7 +2,7 @@
 
 ### 1. DB 구조
 
-<img src="images/db.png" width="400" height="400">
+<img src="https://github.com/Hae-gun/TeamProject/blob/master/%EB%B3%B4%EA%B3%A0%EC%9A%A9%EC%9D%B4%EB%AF%B8%EC%A7%80/db%EA%B5%AC%EC%A1%B0%EB%8F%84.png" width="400" height="400">
 
 
 
